@@ -1,1 +1,7 @@
-
+{
+  "InjectorDownload": "https://example.com/injector-download-url",
+  "DllDownload": "https://example.com/dll-download-url",
+  "UIDownload": "https://example.com/ui-download-url",
+  "BootstrapperVersion": "1.0.0",
+  "BootstrapperDownload": "https://example.com/bootstrapper-download-url"
+}
